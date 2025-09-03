@@ -32,7 +32,7 @@ namespace TallerdeCsharp
             producto = a * b;
 
             //-- salida datos--
-            Console.WriteLine("El producto es: " + (producto + 2));
+            Console.WriteLine("El producto es: " + (producto));
             Console.WriteLine($"el producto de {a} * {b} = {producto}");
 
 
